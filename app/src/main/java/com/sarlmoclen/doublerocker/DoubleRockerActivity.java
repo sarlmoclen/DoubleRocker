@@ -12,10 +12,7 @@ public class DoubleRockerActivity extends Activity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-<<<<<<< HEAD
-		//test
-=======
->>>>>>> DoubleRocker/master
+		//test_commit
 		setContentView(R.layout.activity_double_rocker);
 	}
 
